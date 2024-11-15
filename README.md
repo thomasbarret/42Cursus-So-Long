@@ -110,15 +110,3 @@ The game maps are in `.ber` format and consist of a grid of characters. The foll
 - `E`: Exit
 
 Each map must have at least one player, one exit, and one collectible.
-
----
-
-## Contributing
-
-Feel free to contribute to this project! If you find any issues or have suggestions for improvement, open an issue or submit a pull request.
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
